@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import uvicorn
+import uvicorn  # команда pip install fastapi uvicorn
 
 app = FastAPI()
 
