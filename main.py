@@ -1,5 +1,6 @@
+# ЭТО ПРОГРАММА С ОДНОЙ РУЧКОЙ
 from fastapi import FastAPI
-import uvicorn  # команда pip install fastapi uvicorn
+import uvicorn
 
 app = FastAPI()
 
